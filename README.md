@@ -12,8 +12,8 @@
   * View Frontend of the Website
   
 * Technologies 
-  * CodeIgnitor v2.2.6 Framework
-  * Bootstrap Framework.
+  * CodeIgnitor v2.2.6 Framework
+  * Bootstrap Framework.
 
 ## Version
 1.0.0
