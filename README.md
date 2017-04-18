@@ -1,48 +1,52 @@
-# ![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/logo.PNG)
-**SearchVidz** is a Video Search Engine built using the Youtube API v3.
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/CodeIgnitor-KewlCMS/blob/master/assets/images/logo.PNG">
+</p>
 
-* Features/Technologies: 
-  * HTML5, CSS3, JavaScript
-  * Youtube Data API v3
-  * jQuery $.get() request
-  * inserting HTML via html() method
-  * Uses search.list method to search videos.
-  * 'Fancybox' lightbox script to open the video on our site instead of being redirected to YouTube.
+**KewlCMS** is a Content Management System Built with CodeIgnitor MVC Framework.
+
+* Features
+  * Admin Dashboard
+  * Add, Edit, Delete, Publish/Unpublish Articles
+  * Add, Edit, Delete Users, Categories, User Groups
+  * View Frontend of the Website
+  
+* Technologies 
+  * CodeIgnitor v2.2.6 Framework
+  * Bootstrap Framework.
 
 ## Version
 1.0.0
 
-## Live Demo - SearchVidz
- [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/JavaScript/SeachVidz-YoutubeAPI/)
+## Live Demo - Admin page
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/CodeIgnitor/KewlCMS/admin)
  
-## Usage
-  In your js/script.js, find functions search(), prevPage(), nextPage().  
-  
-  Enter your API key in the GET request for all the 3 functions.
-  
-   	 $.get(
-		"https://www.googleapis.com/youtube/v3/search",{
-			part: 'snippet, id',
-			q: q,
-			pageToken: token,
-			type:'video',
-			key: 'YOUR_API_KEY_HERE'},
-			function(data){
+ ## Live Demo - Front End
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/yellow-button.PNG)](http://jyotsnasingh.com/projects/CodeIgnitor/KewlCMS/)
+ 
 
 ## Snapshots
   
- **Search Video** | 
+ **Admin Dashboard** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/search.PNG)   |
+ ![alt text](https://github.com/Jyotsna-Singh/CodeIgnitor-KewlCMS/blob/master/assets/images/admin-dashboard.PNG)   |
+ 
+ **Articles** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/CodeIgnitor-KewlCMS/blob/master/assets/images/articles.PNG)   |
+ 
+ **Add Article** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/CodeIgnitor-KewlCMS/blob/master/assets/images/add-article.PNG)   |
  
  **Play Video** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/video.PNG)   |
-
+ ![alt text](https://github.com/Jyotsna-Singh/CodeIgnitor-KewlCMS/blob/master/assets/images/groups.PNG)   |
+ 
 ## Vendors
-jQuery - [http://jquery.com](http://jquery.com) 
+CodeIgnitor - [https://codeigniter.com/](https://codeigniter.com/) 
 
-Fancybox - [http://fancybox.net/](http://fancybox.net/)
+Bootstrap - [http://getbootstrap.com/](http://getbootstrap.com/)
 
 
 ## License
