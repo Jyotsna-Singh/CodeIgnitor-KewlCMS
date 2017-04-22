@@ -39,7 +39,7 @@
 --- |
  ![alt text](https://github.com/Jyotsna-Singh/CodeIgnitor-KewlCMS/blob/master/assets/images/add-article.PNG)   |
  
- **Play Video** | 
+ **User Groups** | 
 --- |
  ![alt text](https://github.com/Jyotsna-Singh/CodeIgnitor-KewlCMS/blob/master/assets/images/groups.PNG)   |
  
