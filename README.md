@@ -1,4 +1,4 @@
-## Kewl CMS - Content Managament System For Blogs.  
+## "Kewl CMS" - Content Management System For Blogs  
 
 <p align="center">
   <br><br>
