@@ -1,6 +1,6 @@
 <p align="center">
   <br><br>
-  <img src="https://github.com/Jyotsna-Singh/CodeIgnitor-KewlCMS/blob/master/assets/images/logo.PNG">
+  <img src="https://github.com/Jyotsna-Singh/CodeIgnitor-KewlCMS/blob/master/assets/images/admin-logo.PNG">
 </p>
 
 **KewlCMS** is a Content Management System Built with CodeIgnitor MVC Framework.
