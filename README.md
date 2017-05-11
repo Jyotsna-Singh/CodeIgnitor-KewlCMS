@@ -26,7 +26,12 @@
  
 
 ## Snapshots
-  
+ 
+**Admin Login** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/CodeIgnitor-KewlCMS/blob/master/assets/images/admin.PNG)   |
+ 
+ 
  **Admin Dashboard** | 
 --- |
  ![alt text](https://github.com/Jyotsna-Singh/CodeIgnitor-KewlCMS/blob/master/assets/images/admin-dashboard.PNG)   |
